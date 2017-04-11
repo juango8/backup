@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1491503819 source:/home/juango/Documentos/Algebra Abstracta/encriptado/main.cpp
+	<iostream>
+	<string>
+	"afin.h"
+
+1491495797 source:/home/juango/Documentos/Algebra Abstracta/encriptado/src/cesar.cpp
+	"cesar.h"
+	"funciones.h"
+
+1490898387 /home/juango/Documentos/Algebra Abstracta/encriptado/include/cesar.h
+	<string>
+	<iostream>
+
+1491499482 /home/juango/Documentos/Algebra Abstracta/encriptado/include/funciones.h
+
+1491498117 source:/home/juango/Documentos/Algebra Abstracta/encriptado/src/escalera.cpp
+	"escalera.h"
+	"funciones.h"
+
+1491495602 /home/juango/Documentos/Algebra Abstracta/encriptado/include/escalera.h
+	<string>
+	<iostream>
+
+1491504023 source:/home/juango/Documentos/Algebra Abstracta/encriptado/src/afin.cpp
+	"afin.h"
+	<stdlib.h>
+	<iostream>
+	"funciones.h"
+
+1491503705 /home/juango/Documentos/Algebra Abstracta/encriptado/include/afin.h
+	<iostream>
+	<string>
+
